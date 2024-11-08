@@ -77,7 +77,7 @@ Otherwise, all links will open in the same tab.
 
 ## what-i-learned
 Through this project:
-1. I learned in this simple project how to create react app and treat with calss component,
+1. I learned in this simple project how to create react app and treat with function component,
 2. how to deal with redux [add action,minus action,combineReducers,addRducer,store,types]
 3. how to deal with REDUX_DEVTOOLS_EXTENSION
 4. how to deal with useSelector-useDispatch
